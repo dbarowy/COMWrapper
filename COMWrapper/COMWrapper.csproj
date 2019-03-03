@@ -59,11 +59,7 @@
       <Project>{bb6178d3-40c3-442f-902c-5a6cb2eefa1c}</Project>
       <Name>FastDependenceAnalysis</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ParcelCOMShim\ParcelCOMShim\ParcelCOMShim.fsproj">
-      <Project>{71e3af28-8088-4f9d-9392-858964d72947}</Project>
-      <Name>ParcelCOMShim</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\parcel\Parcel\ExcelParser.fsproj">
+    <ProjectReference Include="..\..\parcel\Parcel\ExcelParser.fsproj">
       <Project>{6de2a2b9-c029-4bdb-8992-d16276471d9f}</Project>
       <Name>ExcelParser</Name>
     </ProjectReference>
